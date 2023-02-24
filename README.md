@@ -16,9 +16,9 @@
 ---
 ### :flushed: About Me:
 <ul>
-  <li> 💻 An aspiring Full-Stack Web Developer pushing for his big break! </li>
+  <li> 💻 An aspiring Full-Stack Developer pushing for his big break! </li>
   <li> ❤️ Passion for creative development with a focus in User Experience, Interaction, and Immersion. </li>
-  <li> 🌱 Constantly learning and sharpening my front-end development with 
+  <li> 🌱 Recently learning and sharpening my front-end development with 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;, 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;,  
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;, and
