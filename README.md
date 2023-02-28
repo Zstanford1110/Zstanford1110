@@ -48,7 +48,7 @@
 ---
 ### 🔥 Github Stats:
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zstanford1110&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Zstanford1110&theme=highcontrast)](https://git.io/streak-stats)
  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zstanford1110&show_icons=true&theme=radical&hide_border=true&&hide=issues,contribs)
