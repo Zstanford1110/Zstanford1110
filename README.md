@@ -55,8 +55,8 @@
 ---
 ### 🏗️ Featured Projects:
 <ul>
-  <li> <a href="https://github.com/AlexisDougherty13/Duel"> ⚔️ Duel: </a> A locally multiplayer sword-fighting game </li>
-  <li> <a href="https://github.com/michelchalfoun/RecipeExchange"> 👨‍🍳 RecipeExchange: </a> A simple recipe exchange board with a community outreach focus </li>
+  <li> <a href="https://github.com/Zstanford1110/Duel"> ⚔️ Duel: </a> A locally multiplayer sword-fighting game </li>
+  <li> <a href="https://github.com/Zstanford1110/RecipeExchange"> 👨‍🍳 RecipeExchange: </a> A simple recipe exchange board with a community outreach focus </li>
   <li> <a href="https://github.com/Zstanford1110/YelpCamp"> 🏕️ YelpCamp: </a> A full-stack web-app developed as part of <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">Colt Steele's Web Developer Bootcamp </a></li>
 </ul>
 
