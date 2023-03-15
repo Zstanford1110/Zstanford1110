@@ -16,7 +16,7 @@
 ---
 ### :flushed: About Me:
 <ul>
-  <li> 💻 An aspiring Full-Stack Developer pushing for his big break! </li>
+  <li> 💻 An aspiring Full-Stack Developer pushing for my big break! </li>
   <li> ❤️ Passion for creative development with a focus in User Experience, Interaction, and Immersion. </li>
   <li> :mortar_board: Currently focusing on strengthening my CS knowledge to prepare for interviews! </li>
   <li> 🌱 Always learning and sharpening my front-end development with 
