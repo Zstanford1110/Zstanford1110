@@ -18,7 +18,8 @@
 <ul>
   <li> 💻 An aspiring Full-Stack Developer pushing for my big break! </li>
   <li> ❤️ Passion for creative development with a focus in User Experience, Interaction, and Immersion. </li>
-  <li> :mortar_board: Currently focusing on strengthening my CS knowledge to prepare for interviews! </li>
+  <li> :mortar_board: Completing 5 Leetcode Problems every day to strengthen my CS knowledge! </li>
+  <li> I'm dedicating a lot of my time to mastering Unreal Engine 5</li>
   <li> 🌱 Always learning and sharpening my front-end development with 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;, 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;,  
