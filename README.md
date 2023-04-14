@@ -61,6 +61,7 @@
   <li> <a href="https://github.com/Zstanford1110/Duel"> ⚔️ Duel: </a> A locally multiplayer sword-fighting game </li>
   <li> <a href="https://github.com/Zstanford1110/RecipeExchange"> 👨‍🍳 RecipeExchange: </a> A simple recipe exchange board with a community outreach focus </li>
   <li> <a href="https://github.com/Zstanford1110/YelpCamp"> 🏕️ YelpCamp: </a> A full-stack web-app developed as part of <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">Colt Steele's Web Developer Bootcamp </a></li>
+  <li> <a href="https://github.com/Obscurity-Engineering/Leetcode"> 💻 LeetCode: </a> Ongoing LeetCode repository that another developer and I use to sharpen our programming knowledge </li>
 </ul>
 
 ---
