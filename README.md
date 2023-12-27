@@ -64,8 +64,4 @@
   <li> <a href="https://github.com/Obscurity-Engineering/Leetcode"> 💻 LeetCode: </a> Ongoing LeetCode repository that another developer and I use to sharpen our programming knowledge </li>
 </ul>
 
----
-### 📖 My Philosophy (w/ some help from ChatGPT):
-<img src="https://i.imgur.com/VWyt3Fk.png" title="chatgpt" width="800" />
-
 ### Thanks for stopping by!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
