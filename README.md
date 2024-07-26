@@ -16,7 +16,7 @@
 ---
 ### :flushed: About Me:
 <ul>
-  <li> 💻 An aspiring Full-Stack Developer pushing for my big break! </li>
+  <li> 💻 Full-Stack Developer </li>
   <li> ❤️ Passion for creative development with a focus in User Experience, Interaction, and Immersion. </li>
 <!--   <li> 🎓 Completing 5 Leetcode Problems every day to strengthen my CS knowledge! </li> -->
 <!--   <li> 🎮 I'm also dedicating a lot of my time to mastering Unreal Engine 5! </li> -->
